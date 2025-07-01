@@ -29,7 +29,7 @@
 ## ex | 18의 약수 : 1 2 3 6 **9** 18 
 ## 이런 성질을 이용하여 반복 횟수 줄이기
 
-<!-- class SumDivisor {
+class SumDivisor {
     public int sumDivisor(int num) {
         int answer = 0;
     for(int i =1 ; i<=num/2;i++){
@@ -45,4 +45,4 @@
         SumDivisor c = new SumDivisor();
         System.out.println(c.sumDivisor(12));
     }
-} -->
+}
