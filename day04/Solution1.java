@@ -1,6 +1,6 @@
 package day04;
 
-public class Solution {
+public class Solution1 {
 
     public String solution(int num) {
         String answer = "";
